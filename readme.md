@@ -29,7 +29,6 @@
 <a target="_blank" href="https://www.instagram.com/siddiq_odiq" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefined@siddiqodiq" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqodiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
