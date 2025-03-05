@@ -1,8 +1,22 @@
-<img align="right" height="150" src="https://i.pinimg.com/originals/78/f1/99/78f1998e54ae7d6ce7213aaeef36170d.gif"  />
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQE0MtrGbd0wMw/profile-displaybackgroundimage-shrink_350_1400/B56ZTyrtkpHEAY-/0/1739238335298?e=1746662400&v=beta&t=m4TH5tBRPVqjssrSwhBoWvsnkrcBtU6IzzhrsmheJXE"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <h2 align="center">Hi 👋, I'm  odiq. A Web Developer & Pentester</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="250" src="https://i.pinimg.com/originals/78/f1/99/78f1998e54ae7d6ce7213aaeef36170d.gif"  />
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -62,12 +76,29 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddiqodiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/siddiqodiq/siddiqodiq/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
   <a href="www.linkedin.com/in/odiq" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://x.com/siddiqodiq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@siddiqodiq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="siddiqodiq@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
