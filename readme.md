@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Hi 👋, I'm  odiq. A Web Developer & Pentester</h2>
 
 ###
